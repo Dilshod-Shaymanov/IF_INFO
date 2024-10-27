@@ -1,0 +1,14 @@
+{
+  "port": 3000,
+  "dbUrl": "mongodb://localhost:27017/ITINFO",
+  "access_key": "MyAccessTokenSecretKey",
+  "refresh_key": "MyRefreshTokenSecretKey",
+  "access_time": "25m",
+  "refresh_time": "15d",
+  "refresh_time_ms": 1296000000,
+  "smpt_password": "ekxarwabgluwjzbw",
+  "smpt_host": "smtp.gmail.com",
+  "smpt_port": "587",
+  "smpt_user": "dilshodshaymanov050@gmail.com",
+  "api_url": "http://localhost"
+}
